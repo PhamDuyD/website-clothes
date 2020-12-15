@@ -1,0 +1,3 @@
+Đỗ Phạm Duy - 17DH110552 : backend
+Lê Thị Huyền - 17DH110513 : Giao diện
+Nguyễn Minh Tuấn - 17DH110530 : cơ sở dữ liệu
